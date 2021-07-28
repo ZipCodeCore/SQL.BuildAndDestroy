@@ -1,0 +1,1 @@
+Update Students Set City = 'Edinburgh';
