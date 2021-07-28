@@ -1,0 +1,1 @@
+ALTER TABLE usersO DROP COLUMN Birthday;
