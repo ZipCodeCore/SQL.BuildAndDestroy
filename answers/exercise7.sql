@@ -1,0 +1,1 @@
+delete Birthday from Users;

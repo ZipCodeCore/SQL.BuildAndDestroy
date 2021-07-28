@@ -1,0 +1,1 @@
+delete Users from myNewDB;
