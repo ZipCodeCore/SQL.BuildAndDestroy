@@ -1,2 +1,2 @@
-CREATE TABLE Usera(id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT,name VARCHAR(255) NOT NULL,specialty ENUM('FRONT END','MIDDLE TIER','DATA TIER'));
-describe Usera;
+CREATE TABLE USERS (USERID int,LastName varchar(255),FirstName varchar(255),Address varchar(255),City varchar(255));
+describe USERS;
